@@ -1,3 +1,0 @@
-function Pagination (props) {
-  return <></>
-}
